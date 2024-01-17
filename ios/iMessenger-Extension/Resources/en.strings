@@ -1,0 +1,16 @@
+/* 
+  en.strings
+  iMessenger
+
+  Created by Hard Patel on 16/01/24.
+  
+*/
+"select_question" = "Select your question then press ";
+"not_selected_question" = "No text Selected. Select your question then press ";
+"ask" = "ASK";
+"subscribe_chatai" = "Subscribe Chat AI assistant for unlimited questions and search";
+"subscribe" = "Subscribe";
+"chatai_full_access" = "ChatAI Keyboard requires full access.";
+"allow" = "Allow";
+"askMeAnything" = "Ask me anything";
+"clear" = "Clear";
