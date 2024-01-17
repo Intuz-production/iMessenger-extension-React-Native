@@ -54,6 +54,8 @@ iMessages extension helps user to interact with your application using the custo
 
 9. Implement the localization for your project using the Localization manager and add the necessary resources in the Resources folder of the Project in iMessage folder.
 
+[![Demo CountPages alpha](./screenshots/iMessengerDemo-Preview.gif)](./screenshots/iMessengerDemo.mp4)
+
 ![Alt text](./screenshots/CoverScreen.png?raw=true "Home Screen")
 
 ![Alt text](./screenshots/iMessagePreview.png?raw=true "Cover page iMessenger Screen")
