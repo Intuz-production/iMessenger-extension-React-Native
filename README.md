@@ -3,6 +3,11 @@
 # Introduction
 INTUZ is presenting an iMessenger extension with React Native support component, which lets you add an extension of iMessages in you application and you can easily integrate the same with your existing React Native application
 
+# Description
+This component lets you create an iMessages extension and directly add this to your iOS application and if you have a react native app then you can also do it easily, This extension also supports the localisation that helps you extend your users preferences from your react native app to your iMessages extension using the app group capability.
+
+iMessages extension helps user to interact with your application using the custom extension so it will help them give personalize experience and your application like UI and UX, which will make it easier to access your application feature without opening them.
+
 ## Features
  - React Native project with iMessenger extension
  - Localization support
@@ -49,9 +54,9 @@ INTUZ is presenting an iMessenger extension with React Native support component,
 
 9. Implement the localization for your project using the Localization manager and add the necessary resources in the Resources folder of the Project in iMessage folder.
 
-![Alt text](./screenshots/Home.png?raw=true "Home Screen")
+![Alt text](./screenshots/CoverScreen.png?raw=true "Home Screen")
 
-![Alt text](./screenshots/Cover.png?raw=true "Cover page imessenger Screen")
+![Alt text](./screenshots/iMessagePreview.png?raw=true "Cover page iMessenger Screen")
 
 ![Alt text](./screenshots/SmallPreview.png?raw=true "Smaller preview Screen")
 
