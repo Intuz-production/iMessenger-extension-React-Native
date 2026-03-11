@@ -1,6 +1,8 @@
-# iMessenger extension with React Native
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [React Native app development](https://www.intuz.com/custom-app-development)
+and [mobile app development](https://www.intuz.com/ios-development).
+<br><br>
 
-# Introduction
 INTUZ is presenting an iMessenger extension with React Native support component, which lets you add an extension of iMessages in you application and you can easily integrate the same with your existing React Native application
 
 # Description
